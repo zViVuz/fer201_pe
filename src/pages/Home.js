@@ -52,7 +52,7 @@ const Home = () => {
                             <h2>ID: {detailPopup.id}</h2>
                             <p>Name: {detailPopup.name}</p>
                             <p>Age: {detailPopup.age}</p>
-                            <p>Address: {detailPopup.Address}</p>
+                            <p>Address: {detailPopup.address}</p>
                             <p>CreatedAt: {new Date(detailPopup.createdAt * 1000).toLocaleDateString()}</p>
                         </div>
                     </div>
