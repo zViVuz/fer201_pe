@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import "../styles/home.css";
 
-const URL = 'https://649911d179fbe9bcf83ea17c.mockapi.io/api/v1/staffManagement';
+const URL = 'https://64b16f3b062767bc48263274.mockapi.io/staffManagement';
 
 const Home = () => {
 
